@@ -52,3 +52,24 @@ Este guia explica os quatro pilares da eletricidade utilizando a **Analogia Hidr
 | **Potência** | Força da turbina | $P$ | Watts (W) | $P = V \cdot I$ |
 
 > **Dica de Estudo:** Lembre-se do triângulo da Lei de Ohm. Para achar uma variável, basta "esconder" ela com o dedo e ver o que sobra da fórmula $V = R \cdot I$.
+
+---
+
+## Macetes de Proporcionalidade
+
+Para entender como um componente afeta o outro sem precisar fazer conta toda hora, guarde estas regras:
+
+### A Tensão e a Corrente são "Amigas" (Proporcionais)
+* **Dica:** Se você aumentar a Tensão ($V$) e manter a mesma Resistência, a Corrente ($I$) **sobe** junto.
+* *Exemplo:* Se você ligar uma lâmpada de 12V em uma bateria de 24V, a corrente dobra (e a lâmpada provavelmente queima).
+
+### A Resistência e a Corrente são "Inimigas" (Inversamente Proporcionais)
+* **Dica:** Quanto **maior** a Resistência ($R$), **menor** será a Corrente ($I$).
+* *Analogia:* Se o cano for muito estreito (muita resistência), passa pouca água (pouca corrente).
+
+### O Macete do Triângulo (Lei de Ohm)
+Desenhe um triângulo com o $V$ no topo e $R$ e $I$ na base:
+```text
+      [ V ]
+     /     \
+    [R] * [I]
